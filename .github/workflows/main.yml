@@ -58,4 +58,4 @@ jobs:
       # Run your test
       - name: Check Documentation
         run: |
-          py "CS3213_check_doc.py"
+          python "CS3213_check_doc.py"
